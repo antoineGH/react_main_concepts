@@ -5,7 +5,6 @@
 1. [Project description](#description)
 2. [Installation instructions](#installation)
 3. [Main Concepts](#main-concepts)
-4. [Screenshots](#screenshots)
 
 ## 1. Project description<a name="description"></a>
 
@@ -47,20 +46,40 @@ npm start
 
 1. Hello World
 
-[HelloWorld.js](src/components/HelloWorld.js)
+    [HelloWorld.js](src/components/HelloWorld.js)
 
 2. Introducing JSX
+
+    [HelloProps.js](src/components/HelloProps.js)
+
 3. Rendering Elements
+
+    [Tick.js](src/components/Tick.js)
+
 4. Components and Props
+
+    [HelloProps.js](src/components/HelloProps.js)
+
 5. State and Lifecycle
+
+    [Clock.js](src/components/Clock.js)
+
 6. Handling Events
+
+    [EventHandlerClass.js](src/components/EventHandlerClass.js)
+
 7. Conditional Rendering
+
+    [LoginControl.js](src/components/LoginControl.js)
+
 8. Lists and Keys
+
+    [DisplayArray.js](src/components/DisplayArray.js)
+
 9. Forms
+
+    [Form.js](src/components/Form.js)
+
 10. Lifting State Up
-11. Composition vs Inheritance
-12. Thinking In React
 
-## 4. Screenshots<a name="screenshots"></a>
-
-![Form Image Screenshot](https://github.com/antoineratat/react_form_image/blob/main/screenshots/1.PNG?raw=true)
+    [Currency.js](src/components/Currency.js)
