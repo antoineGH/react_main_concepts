@@ -47,7 +47,7 @@ npm start
 
 1. Hello World
 
-[HelloWorld.js](HelloWorld.js)
+[HelloWorld.js](src/components/HelloWorld.js)
 
 2. Introducing JSX
 3. Rendering Elements
