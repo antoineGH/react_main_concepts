@@ -4,7 +4,7 @@
 
 1. [Project description](#description)
 2. [Installation instructions](#installation)
-3. [Project structure](#structure)
+3. [Main Concepts](#main-concepts)
 4. [Screenshots](#screenshots)
 
 ## 1. Project description<a name="description"></a>
@@ -43,14 +43,23 @@ Run the app in development mode. Open http://localhost:3000 to view it in the br
 npm start
 ```
 
-## 3. Project structure<a name="structure"></a>
+## 3. Main Concepts<a name="main-concepts"></a>
 
--   src
-    -   App.js
-    -   App.css
-    -   components
-        -   FormUser.js
-        -   SignedFormUser.js
+1. Hello World
+
+[HelloWorld.js](HelloWorld.js)
+
+2. Introducing JSX
+3. Rendering Elements
+4. Components and Props
+5. State and Lifecycle
+6. Handling Events
+7. Conditional Rendering
+8. Lists and Keys
+9. Forms
+10. Lifting State Up
+11. Composition vs Inheritance
+12. Thinking In React
 
 ## 4. Screenshots<a name="screenshots"></a>
 
