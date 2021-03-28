@@ -10,6 +10,21 @@
 
 React Form Image is an implementation of forms with Formik and Yup (validation schema) and image with dropzone area.
 
+Learning Documentation :
+
+-   https://reactjs.org/docs/hello-world.html
+-   https://reactjs.org/docs/introducing-jsx.html
+-   https://reactjs.org/docs/rendering-elements.html
+-   https://reactjs.org/docs/components-and-props.html
+-   https://reactjs.org/docs/state-and-lifecycle.html
+-   https://reactjs.org/docs/handling-events.html
+-   https://reactjs.org/docs/conditional-rendering.html
+-   https://reactjs.org/docs/lists-and-keys.html
+-   https://reactjs.org/docs/forms.html
+-   https://reactjs.org/docs/lifting-state-up.html
+-   https://reactjs.org/docs/composition-vs-inheritance.html
+-   https://reactjs.org/docs/thinking-in-react.html
+
 ## 2. Installation instructions<a name="installation"></a>
 
 Versions:
